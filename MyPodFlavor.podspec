@@ -4,14 +4,14 @@ Pod::Spec.new do |s|
 #s.platform = :ios
 s.ios.deployment_target = '12.0'
 s.name = "MyPodFlavor"
-s.summary = "A short description of MyPodFlavor."
+s.summary = "A Pod can be used to design UIComponent for different kind of forms."
 s.requires_arc = true
 
 # 2
-s.version = "0.0.1"
+s.version = "2.0"
 
 # 3
-s.license = { :type => "MIT", :file => "LICENSE" }
+s.license = { :type => "MIT", :file => "License" }
 
 # 4 - Replace with your name and e-mail address
 s.author = { "Nihal Khokhari" => "nihalk@softcell.com" }
@@ -20,7 +20,7 @@ s.author = { "Nihal Khokhari" => "nihalk@softcell.com" }
 s.homepage = "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git", :tag => "#{1.0}" }
+s.source = { :git => "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git", :tag => "#{2.0}" }
 
 # 7
 s.framework = "UIKit"

@@ -23,7 +23,7 @@ s.homepage = "https://github.com/nihalkhokhari/TempUICreation.git"
 s.source = { :git => "https://github.com/nihalkhokhari/TempUICreation.git", :tag => "#{3.0}" }
 
 # 7
-s.framework = "Foundation"
+s.framework = "UIKit"
     # s.dependency 'Alamofire', '~> 4.7'
     # s.dependency 'MBProgressHUD', '~> 1.1.0'
 

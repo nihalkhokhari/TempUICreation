@@ -8,7 +8,7 @@ s.summary = "A Pod can be used to design UIComponent for different kind of forms
 s.requires_arc = true
 
 # 2
-s.version = "2.0"
+s.version = "3.0"
 
 # 3
 s.license = { :type => "MIT", :file => "License" }
@@ -20,7 +20,7 @@ s.author = { "Nihal Khokhari" => "nihalk@softcell.com" }
 s.homepage = "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git", :tag => "#{2.0}" }
+s.source = { :git => "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git", :tag => "#{3.0}" }
 
 # 7
 s.framework = "UIKit"

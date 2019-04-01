@@ -20,7 +20,7 @@ s.author = { "Nihal Khokhari" => "nihalk@softcell.com" }
 s.homepage = "https://github.com/nihalkhokhari/TempUICreation.git"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/nihalkhokhari/TempUICreation.git", :tag => "#{0.1.0}" }
+s.source = { :git => "https://github.com/nihalkhokhari/TempUICreation.git", :tag => "#{3.0}" }
 
 # 7
 s.framework = "UIKit"

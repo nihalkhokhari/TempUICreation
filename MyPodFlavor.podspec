@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "License" }
 s.author = { "Nihal Khokhari" => "nihalk@softcell.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git"
+s.homepage = "https://github.com/nihalkhokhari/TempUICreation.git"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://nihalsoftcell@bitbucket.org/softcellsoftwaregroup/ui-component-framework.git", :tag => "#{3.0}" }
+s.source = { :git => "https://github.com/nihalkhokhari/TempUICreation.git", :tag => "#{0.1.0}" }
 
 # 7
 s.framework = "UIKit"
